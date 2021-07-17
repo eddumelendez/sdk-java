@@ -76,6 +76,8 @@
         <module>http/restful-ws</module>
         <module>kafka</module>
         <module>spring</module>
+        <module>spring-boot/autoconfigure</module>
+        <module>spring-boot/starter</module>
         <module>sql</module>
         <module>bom</module>
     </modules>

@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.cloudevents.springboot.autoconfigure.RSocketAutoConfiguration,\
+io.cloudevents.springboot.autoconfigure.WebMvcAutoConfiguration,\
+io.cloudevents.springboot.autoconfigure.WebFluxAutoConfiguration
